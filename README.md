@@ -21,7 +21,7 @@ I am a full-stack developer with experience in Python, MySQL, HTML, CSS, JavaScr
 ## Contact
 Feel free to reach out to me for any queries or opportunities.
 
-- **Email:** [rxjpatil@gmail.com](mailto:gokulavhad2002@gmail.com)
+- **Email:** [gokulavhad@gmail.com](mailto:gokulavhad2002@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/gokul-avhad-052aa7210/)
 - **GitHub:** [GitHub Profile](https://github.com/Gokulavhad)
 
